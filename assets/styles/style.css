@@ -1,5 +1,6 @@
 body {
     background: white;
+    height: 100%;
 }
 
 #header {
@@ -14,6 +15,19 @@ body {
 #main-elements {
     text-align: center;
     padding-top: 4%;
+    padding-left: 28.5%;
+    padding-right: 28.5%;
+}
+
+#google-logo {
+    margin-bottom: 3.8%;
+}
+
+#search {
+    border: 1px solid rgb(218, 218, 218);
+    height: 2.7em;
+    border-radius: 2em;
+    margin-bottom: 8%;
 }
 
 footer{
