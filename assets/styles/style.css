@@ -1,0 +1,27 @@
+body {
+    background: white;
+}
+
+#header {
+    display: flex;
+    float: right;
+}
+
+.head-element {
+    margin: 7px;
+}
+
+#main-elements {
+    text-align: center;
+}
+
+footer{
+    display: flex;
+    float: left; 
+    position: absolute;
+    bottom: 0;
+}
+
+.footer-element {
+    margin: 7px;
+}
